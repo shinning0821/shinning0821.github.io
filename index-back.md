@@ -1,6 +1,6 @@
-# Lin Gao's homepage
+# Zhang Yongbin's homepage
 
-## Welcome to GitHub Pages of Lin Gao 
+## Welcome to GitHub Pages of Zhang Yongbin
 
 You can use the [editor on GitHub](https://github.com/gaolin021/lingao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
