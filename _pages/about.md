@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our paper "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking" has been early accepted by MICCAI 2025 (top 9%). 
+- *2025.04*: &nbsp;🎉🎉 Our paper "The Four Color Theorem for Cell Instance Segmentation" has been accepted by ICML 2025. 
 
 # 📝 Publications 
 
