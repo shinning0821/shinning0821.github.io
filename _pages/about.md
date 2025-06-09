@@ -25,6 +25,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking" has been early accepted by MICCAI 2025 (top 9%). 
 - *2025.04*: &nbsp;🎉🎉 Our paper "The Four Color Theorem for Cell Instance Segmentation" has been accepted by ICML 2025. 
+- *2025.03*: &nbsp;🎉🎉 Our paper "Seine: Structure encoding and interaction network for nuclei instance segmentation" has been accepted by IEEE JBHI. 
+- *2025.02*: &nbsp;🎉🎉 Our paper "Medical sam adapter: Adapting segment anything model for medical image segmentation" has been accepted by MedIA. 
 
 # 📝 Publications 
 
@@ -47,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.08 - 2026.06 (now)*, M.Eng. Student (Master by Research) at Department of Electric and Coomputer Engineering, National University of Singapore, supervised by Prof. Yueming Jin. 
+- *2024.08 - 2026.06 (now)*, M.Eng. Student (Master by Research) at Department of Electrical and Coomputer Engineering, National University of Singapore, supervised by Prof. Yueming Jin. 
 - *2020.09 - 2024.07*, B.Eng. Student at Department of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), supervised by Prof. Yongbing Zhang.
 
 <!-- # 💬 Invited Talks
