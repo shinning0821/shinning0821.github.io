@@ -27,6 +27,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.04*: &nbsp;🎉🎉 Our paper "The Four Color Theorem for Cell Instance Segmentation" has been accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉🎉 Our paper "Seine: Structure encoding and interaction network for nuclei instance segmentation" has been accepted by IEEE JBHI. 
 - *2025.02*: &nbsp;🎉🎉 Our paper "Medical sam adapter: Adapting segment anything model for medical image segmentation" has been accepted by MedIA. 
+- *2024.12*: &nbsp;🎉🎉 Our paper "Multi-scale Context Intertwining for Panoramic Renal Pathology Segmentation" has been accepted by ICASSP 2025. 
+- *2024.12*: &nbsp;🎉🎉 Our paper "Dawn: Domain-adaptive weakly supervised nuclei segmentation via cross-task interactions" has been accepted by IEEE TCSVT. 
 
 # 📝 Publications 
 
