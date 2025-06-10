@@ -29,6 +29,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.02*: &nbsp;🎉🎉 Our paper "Medical sam adapter: Adapting segment anything model for medical image segmentation" has been accepted by MedIA. 
 - *2024.12*: &nbsp;🎉🎉 Our paper "Multi-scale Context Intertwining for Panoramic Renal Pathology Segmentation" has been accepted by ICASSP 2025. 
 - *2024.12*: &nbsp;🎉🎉 Our paper "Dawn: Domain-adaptive weakly supervised nuclei segmentation via cross-task interactions" has been accepted by IEEE TCSVT. 
+- *2024.5*: &nbsp;🎉🎉 Our paper "Dynamic pseudo label optimization in point-supervised nuclei segmentation" has been early accepted by MICCAI 2024 (top11%).
+- *2024.2*: &nbsp;🎉🎉 Our paper "Boundary-aware Contrastive Learning for Semi-supervised Nuclei Instance Segmentation" has been accepted by MIDL 2024 (Oral).
+
 
 # 📝 Publications 
 
@@ -59,4 +62,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.10 - 2024.06*, Research Assistant in Harbin Institute of Technology (Shenzhen) and Tsinghua Shenzhen International Graduate School, supervised by Prof. Yongbing Zhang.
