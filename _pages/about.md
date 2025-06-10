@@ -24,7 +24,7 @@ My research interests include computer vision techniques—particularly image an
 
 
 # 🔥 News
-- *2026.06* &nbsp; Actively seeking postdoctoral positions in **medical AI** and **agentic AI**.
+- *2026.06* &nbsp; Actively seeking Ph.D positions in **medical AI** and **agentic AI**.
 If you're interested in collaboration, __feel free to reach out__!
 - *2025.05*: &nbsp;🎉🎉 Our paper "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking" has been early accepted by MICCAI 2025 (top 9%). 
 - *2025.04*: &nbsp;🎉🎉 Our paper "The Four Color Theorem for Cell Instance Segmentation" has been accepted by ICML 2025. 
