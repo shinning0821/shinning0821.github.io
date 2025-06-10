@@ -34,7 +34,7 @@ My research interests include computer vision techniques—particularly image an
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow](https://arxiv.org/pdf/2503.18968)
@@ -45,7 +45,7 @@ My research interests include computer vision techniques—particularly image an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/surgraw.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/surgraw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence](https://arxiv.org/pdf/2503.10265)
