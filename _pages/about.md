@@ -100,7 +100,7 @@ Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Seine: Structure encoding and interaction network for nuclei instance segmentation](https://ieeexplore.ieee.org/abstract/document/10980302), Ye Zhang, Linghan Cai, Ziyue Wang, Yongbing Zhang,  **IEEE JBHI**
 
 # 🎖 Honors and Awards
 - *2023.10* Second-class academic schorlarship of undergraduate (top 10%).
