@@ -60,6 +60,18 @@ Chang Han Low, **Ziyue Wang**, Tianyi Zhang, Zhitao Zeng, Zhuo Zhu, Evangelos B.
 </div>
 </div>
 
+<!-- ### 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/oasis.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation]
+
+Guanyi Qin, **Ziyue Wang**, Daiyun Shen, Haofeng Liu, Hantao Zhou, Junde Wu, Runze Hu, Yueming Jin
+# <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel boundary amendment video object segmentation method with inherent structure refinement
+</div>
+</div>
+
 <!-- ### 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA (IF=10.7)</div><img src='images/papers/msa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
