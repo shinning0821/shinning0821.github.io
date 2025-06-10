@@ -24,6 +24,8 @@ My research interests include computer vision techniques—particularly image an
 
 
 # 🔥 News
+- *2026.06* &nbsp; Actively seeking postdoctoral positions in **medical AI** and **agentic AI**.
+If you're interested in collaboration, __feel free to reach out__!
 - *2025.05*: &nbsp;🎉🎉 Our paper "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking" has been early accepted by MICCAI 2025 (top 9%). 
 - *2025.04*: &nbsp;🎉🎉 Our paper "The Four Color Theorem for Cell Instance Segmentation" has been accepted by ICML 2025. 
 - *2025.03*: &nbsp;🎉🎉 Our paper "Seine: Structure encoding and interaction network for nuclei instance segmentation" has been accepted by IEEE JBHI. 
@@ -65,7 +67,7 @@ Chang Han Low, **Ziyue Wang**, Tianyi Zhang, Zhitao Zeng, Zhuo Zhu, Evangelos B.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/oasis.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation]
+[Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation](https://shinning0821.github.io/)
 
 Guanyi Qin, **Ziyue Wang**, Daiyun Shen, Haofeng Liu, Hantao Zhou, Junde Wu, Runze Hu, Yueming Jin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
