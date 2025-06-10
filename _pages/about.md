@@ -114,7 +114,7 @@ Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-
+- [ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking](https://arxiv.org/pdf/2505.08581) Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin, **MICCAI 2025**
 - [Seine: Structure encoding and interaction network for nuclei instance segmentation](https://ieeexplore.ieee.org/abstract/document/10980302), Ye Zhang, Linghan Cai, Ziyue Wang, Yongbing Zhang,  **IEEE JBHI**
 
 # 🎖 Honors and Awards
