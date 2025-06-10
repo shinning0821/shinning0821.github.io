@@ -34,6 +34,8 @@ My research interests include computer vision techniques—particularly image an
 
 
 # 📝 Selected Publications 
+
+<!-- ### 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +48,7 @@ My research interests include computer vision techniques—particularly image an
 </div>
 </div>
 
+<!-- ### 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/surgraw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,18 +60,31 @@ Chang Han Low, **Ziyue Wang**, Tianyi Zhang, Zhitao Zeng, Zhuo Zhu, Evangelos B.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA</div><img src='images/papers/msa.jpg' alt="sym" width="100%"></div></div>
+<!-- ### 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MedIA (IF=10.7)</div><img src='images/papers/msa.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Medical sam adapter: Adapting segment anything model for medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841525000945)
 
 Junde Wu, **Ziyue Wang**, Mingxuan Hong, Wei Ji, Huazhu Fu, Yanwu Xu, Min Xu, Yueming Jin
 # <strong><span class='show_paper_citations' data='fTnoBDAAAAAJ:_Qo2XoVZTnwC'></span></strong>
-- Accepted by *Medical Image Analysis (IF=10.7)*
 - We present a simple yet effective adaptation technique, to extend SAM to medical domain.
 - Received over **600** citations on google scholar.
 </div>
 </div>
+
+<!-- ### 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI25 (CCF-B)</div><img src='images/papers/donu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic pseudo label optimization in point-supervised nuclei segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_21)
+
+**Ziyue Wang**, Ye Zhang, Yifeng Wang, Linghan Cai, Yongbing Zhang
+# <strong><span class='show_paper_citations' data='fTnoBDAAAAAJ:iH-uZ7U-co4C'></span></strong>
+- We present a framework leverage CAM to achieve accurate weak-supervised nuclei segmentation.
+</div>
+</div>
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
