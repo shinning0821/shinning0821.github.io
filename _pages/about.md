@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a M.Eng student at Department of Electrical and Coomputer Engineering, [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=en). Before that, I received my B.Eng degree from [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), advised by Prof. [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en).
+I am a M.Eng student at Department of Electrical and Computer Engineering, [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=en). Before that, I received my B.Eng degree from [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), advised by Prof. [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en).
 
-My research interests include computer vision techniques—particularly **image and video segmentation**—and **agentic AI systems**, with a focus on their applications in **medical domains** such as radiology, surgery, and pathology. I have published more than 10 papers at the top conferences and journals with total <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'>google scholar citations <strong><span id='total_cit'>750+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include computer vision techniques—particularly **image and video segmentation** and **agentic AI systems**, with a focus on their applications in **medical domains** such as radiology, surgery, and pathology. I have published more than 10 papers at the top conferences and journals with a total <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'>google scholar citations <strong><span id='total_cit'>800+</span></strong></a>.
+<!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
