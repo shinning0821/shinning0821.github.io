@@ -72,7 +72,7 @@ Chang Han Low, **Ziyue Wang**, Tianyi Zhang, Zhitao Zeng, Zhuo Zhu, Evangelos B.
 
 [Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation](https://arxiv.org/pdf/2507.18944)
 
-Guanyi Qin*, **Ziyue Wang\***, Daiyun Shen, Haofeng Liu, Hantao Zhou, Junde Wu, Runze Hu, Yueming Jin
+Guanyi Qin\*, **Ziyue Wang\***, Daiyun Shen, Haofeng Liu, Hantao Zhou, Junde Wu, Runze Hu, Yueming Jin
 # <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel boundary amendment video object segmentation method with inherent structure refinement
 </div>
@@ -97,7 +97,7 @@ Junde Wu, **Ziyue Wang**, Mingxuan Hong, Wei Ji, Huazhu Fu, Yanwu Xu, Min Xu, Yu
 
 [Dynamic pseudo label optimization in point-supervised nuclei segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_21)
 
-**Ziyue Wang\***, Ye Zhang*, Yifeng Wang*, Linghan Cai, Yongbing Zhang
+**Ziyue Wang\***, Ye Zhang\*, Yifeng Wang\*, Linghan Cai, Yongbing Zhang
 # <strong><span class='show_paper_citations' data='fTnoBDAAAAAJ:iH-uZ7U-co4C'></span></strong>
 - We present a framework leverage CAM to achieve accurate weak-supervised nuclei segmentation.
 </div>
