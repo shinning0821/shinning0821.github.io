@@ -27,6 +27,7 @@ My research interests include computer vision techniques—particularly **image 
 # 🔥 News
 - *2026.06* &nbsp; <span style="color:red;">Actively seeking Ph.D positions in **medical AI** and **agentic AI** in **2026 Fall**.</span>
 If you're interested in collaboration, feel free to reach out!
+- *2025.11*: &nbsp;🎉🎉 Our paper "PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology" has been accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper "EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation" has been accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 Our paper "Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation" has been accepted by ICCV 2025 (Highlight, top 10%).
 - *2025.05*: &nbsp;🎉🎉 Our paper "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking" has been early accepted by MICCAI 2025 (top 9%). 
