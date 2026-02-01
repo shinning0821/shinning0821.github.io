@@ -27,6 +27,7 @@ My research interests include computer vision techniques—particularly **image 
 # 🔥 News
 - *2026.06* &nbsp; <span style="color:red;">Actively seeking Ph.D positions in **medical AI** and **agentic AI** in **2026 Fall**.</span>
 If you're interested in collaboration, feel free to reach out!
+- *2026.01*: &nbsp;🎉🎉 Our paper "[Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow](https://arxiv.org/pdf/2503.18968)" has been accepted by ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 Our paper "PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology" has been accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper "EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation" has been accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 Our paper "Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation" has been accepted by ICCV 2025 (Highlight, top 10%).
@@ -43,7 +44,7 @@ If you're interested in collaboration, feel free to reach out!
 # 📝 Selected Publications 
 
 <!-- ### 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow](https://arxiv.org/pdf/2503.18968)
