@@ -27,7 +27,7 @@ My research interests include computer vision techniques—particularly **image 
 # 🔥 News
 - *2026.06* &nbsp; <span style="color:red;">Actively seeking Ph.D positions in **medical AI** and **agentic AI** in **2026 Fall**.</span>
 If you're interested in collaboration, feel free to reach out!
-- *2026.01*: &nbsp;🎉🎉 Our paper "[Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow](https://arxiv.org/pdf/2503.18968)" has been accepted by ICLR 2026.
+- *2026.01*: &nbsp;🎉🎉 Our paper "Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow" has been accepted by ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 Our paper "PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology" has been accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper "EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation" has been accepted by ACM MM 2025.
 - *2025.06*: &nbsp;🎉🎉 Our paper "Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation" has been accepted by ICCV 2025 (Highlight, top 10%).
@@ -139,3 +139,4 @@ Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo
 
 # 💻 Internships
 - *2021.10 - 2024.06*, Research Assistant in Harbin Institute of Technology (Shenzhen) and Tsinghua Shenzhen International Graduate School, supervised by Prof. Yongbing Zhang.
+- *2025.11 - 2026.03*, Research Intern at Microsoft Research Asia, supervised by Dr. Jingjing Fu.
