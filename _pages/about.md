@@ -27,6 +27,7 @@ My research interests include computer vision techniques—particularly **image 
 # 🔥 News
 - *2026.06* &nbsp; <span style="color:red;">Actively seeking Ph.D positions in **medical AI** and **agentic AI** in **2026 Fall**.</span>
 If you're interested in collaboration, feel free to reach out!
+- *2026.02*: &nbsp;🎉🎉 Our paper "Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence" has been accepted by IEEE RA-L.
 - *2026.01*: &nbsp;🎉🎉 Our paper "Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow" has been accepted by ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 Our paper "PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology" has been accepted by AAAI 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper "EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation" has been accepted by ACM MM 2025.
@@ -57,7 +58,7 @@ If you're interested in collaboration, feel free to reach out!
 </div>
 
 <!-- ### 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/surgraw.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/papers/surgraw.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence](https://arxiv.org/pdf/2503.10265)
@@ -119,6 +120,8 @@ Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+- [PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/pdf/2512.17621) Fengchun Liu, Songhan Jiang, Linghan Cai, Ziyue Wang, Yongbing Zhang, **AAAI 2026**
+- [EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation](https://dl.acm.org/doi/pdf/10.1145/3746027.3755199) Ziwei Niu, Shiao Xie, Ziyue Wang, Yen-wei Chen, Yueming Jin, Lanfen Lin
 - [ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking](https://arxiv.org/pdf/2505.08581) Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin, **MICCAI 2025**
 - [Seine: Structure encoding and interaction network for nuclei instance segmentation](https://ieeexplore.ieee.org/abstract/document/10980302), Ye Zhang, Linghan Cai, Ziyue Wang, Yongbing Zhang,  **IEEE JBHI**
 
@@ -139,4 +142,4 @@ Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo
 
 # 💻 Internships
 - *2021.10 - 2024.06*, Research Assistant in Harbin Institute of Technology (Shenzhen) and Tsinghua Shenzhen International Graduate School, supervised by Prof. Yongbing Zhang.
-- *2025.11 - 2026.03*, Research Intern at Microsoft Research Asia, supervised by Dr. Jingjing Fu.
+- *2025.10 - 2026.03*, Research Intern at Microsoft Research Asia, supervised by Dr. Jingjing Fu.
