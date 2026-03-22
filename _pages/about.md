@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a M.Eng student at Department of Electrical and Computer Engineering, [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=en). Before that, I received my B.Eng degree from [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), advised by Prof. [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en).
+I am an M.Eng student at the Department of Electrical and Computer Engineering, [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Yueming Jin](https://scholar.google.com/citations?user=s_kbB4oAAAAJ&hl=en). Before that, I received my B.Eng degree from [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), advised by Prof. [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en).
 
-My research interests include computer vision techniques—particularly **image and video segmentation** and **agentic AI systems**, with a focus on their applications in **medical domains** such as radiology, surgery, and pathology. I have published more than 10 papers at the top conferences and journals with a total <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
+My research interests include computer vision techniques—particularly **image and video segmentation** and **agentic AI systems**, with a focus on their applications in **medical domains** such as radiology, surgery, and pathology. I have published more than 10 papers at the top conferences and journals with a total <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'> Google Scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=fTnoBDAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2026.06* &nbsp; <span style="color:red;">Actively seeking Ph.D positions in **medical AI** and **agentic AI** in **2026 Fall**.</span>
+- *2026.06* &nbsp; <span style="color:red;">Actively seeking collabrations in **medical AI** and **agentic AI** in **2026 Fall**.</span>
 If you're interested in collaboration, feel free to reach out!
 - *2026.02*: &nbsp;🎉🎉 Our paper "Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence" has been accepted by IEEE RA-L.
 - *2026.01*: &nbsp;🎉🎉 Our paper "Medagent-pro: Towards evidence-based multi-modal medical diagnosis via reasoning agentic workflow" has been accepted by ICLR 2026.
@@ -114,14 +114,14 @@ Junde Wu, **Ziyue Wang**, Mingxuan Hong, Wei Ji, Huazhu Fu, Yanwu Xu, Min Xu, Yu
 
 Ye Zhang, **Ziyue Wang**, Yifeng Wang, Hao Bian, Linghan Cai, Hengrui Li, Lingbo Zhang, Yongbing Zhang
 # <strong><span class='show_paper_citations' data='fTnoBDAAAAAJ:YsMSGLbcyi4C'></span></strong>
-- We proposes a boundary-aware contrastive learning network to denoise the boundary noise for semi-supervised nuclei segmentation.
+- We propose a boundary-aware contrastive learning network to denoise the boundary noise for semi-supervised nuclei segmentation.
 </div>
 </div>
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 - [PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/pdf/2512.17621) Fengchun Liu, Songhan Jiang, Linghan Cai, Ziyue Wang, Yongbing Zhang, **AAAI 2026**
-- [EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation](https://dl.acm.org/doi/pdf/10.1145/3746027.3755199) Ziwei Niu, Shiao Xie, Ziyue Wang, Yen-wei Chen, Yueming Jin, Lanfen Lin
+- [EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation](https://dl.acm.org/doi/pdf/10.1145/3746027.3755199) Ziwei Niu, Shiao Xie, Ziyue Wang, Yen-wei Chen, Yueming Jin, Lanfen Lin, **ACM MM 2025**
 - [ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking](https://arxiv.org/pdf/2505.08581) Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin, **MICCAI 2025**
 - [Seine: Structure encoding and interaction network for nuclei instance segmentation](https://ieeexplore.ieee.org/abstract/document/10980302), Ye Zhang, Linghan Cai, Ziyue Wang, Yongbing Zhang,  **IEEE JBHI**
 
